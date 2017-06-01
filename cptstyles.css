@@ -1,14 +1,14 @@
-#body1 {background-image:url("hardware1.jpg") ;color:white ;background-size:100%}
-#body2 {background-image:url("hardware2.jpg"); color:white; background-size:100%}
-#body3 {background-image:url("software1.jpg"); color:white; background-size:100%}
-#body4 {background-image:url("software2.jpg"); color:white; background-size:100%}
-#body5 {background-image:url("app1.jpg"); color:white; background-size:100%}
-#body6 {background-image:url("app2.jpg"); color:white; background-size:100%}
-#body7 {background-image:url("html1.jpg"); background-size:100%}
-#body8 {background-image:url("html2.jpg"); color:white; background-size:100%}
+#body1 {background-image:url("hardware1.jpg") ;color:white ; background-repeat : no-repeat; background-size: cover;}
+#body2 {background-image:url("hardware2.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
+#body3 {background-image:url("software1.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
+#body4 {background-image:url("software2.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
+#body5 {background-image:url("app1.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
+#body6 {background-image:url("app2.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
+#body7 {background-image:url("html1.jpg"); background-repeat : no-repeat; background-size: cover;}
+#body8 {background-image:url("html2.jpg"); color:white; background-repeat : no-repeat; background-size: cover;}
 #body9 {background-image:url("javascript1.jpg"); color:white; background-size:100%}
-#body10 {background-image:url("javascript2.jpg"); background-size:100%}
-#bodyfinal {background-image:url("firework.gif"); background-size:100%}
+#body10 {background-image:url("javascript2.jpg"); background-repeat : no-repeat; background-size: cover;}
+#bodyfinal {background-image:url("firework.gif"); background-repeat : no-repeat; background-size: cover;}
 
 
 h2 {font-size:18px}
